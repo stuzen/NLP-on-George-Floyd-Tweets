@@ -6,9 +6,5 @@ There are crazy things happening all around the world: Covid-19, shattered econo
 
 The steps are;
 
-* Importing NLP Modules
-Accessing Twitter API
-Scraping Tweets
-Cleaning tweets
-Sentiment Analysis
-Data Visualization
+* Importing NLP Modules * Accessing Twitter API * Scraping Tweets * Cleaning tweets * Sentiment Analysis * Data Visualization
+
