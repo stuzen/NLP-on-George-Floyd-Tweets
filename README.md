@@ -1,6 +1,6 @@
 # NLP-on-George-Floyd-Tweets
 
-![](Graphs/Word Map.png)
+![](Graphs/Word%20Map.png)
 
 ## "My argument was not that what happens on that social media website is broadly representative of popular opinion but that what happens on Twitter is a good barometer of enthusiasm around movement-building and fandoms."-Charlie Warzel-New York Times
 
